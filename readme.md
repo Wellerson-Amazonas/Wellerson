@@ -34,4 +34,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ### E-mail para contato :
 - wellerson_dev@outlook.com
 
-![Snake animation](https://github.com/WellersonAmazonas/WellersonAmazonas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wellerson-Amazonas/Wellerson-Amazonas/blob/output/github-contribution-grid-snake.svg)
